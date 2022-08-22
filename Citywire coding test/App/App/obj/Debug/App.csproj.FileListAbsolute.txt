@@ -1,0 +1,6 @@
+C:\Users\obisike.ijeoma\Downloads\Citywire coding test\Citywire coding test\App\App\bin\Debug\App.dll
+C:\Users\obisike.ijeoma\Downloads\Citywire coding test\Citywire coding test\App\App\bin\Debug\App.pdb
+C:\Users\obisike.ijeoma\Downloads\Citywire coding test\Citywire coding test\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\obisike.ijeoma\Downloads\Citywire coding test\Citywire coding test\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\obisike.ijeoma\Downloads\Citywire coding test\Citywire coding test\App\App\obj\Debug\App.dll
+C:\Users\obisike.ijeoma\Downloads\Citywire coding test\Citywire coding test\App\App\obj\Debug\App.pdb
